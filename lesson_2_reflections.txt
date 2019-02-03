@@ -7,3 +7,19 @@ It is whats held in the commit before it is committed vs the working directory h
 
 What value do you think it offers?
 great organization to see what is to be committed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+by adding one file to commit per commit
+
+What are some situations when branches would be helpful in keeping your history organized?
+if i was to want to expiriment with some code
+ 
+How do the diagrams help you visualize the branch structure?
+it makes it easier to see changes that would be possible to interact with other commits.
+
+What is the result of merging two branches together?
+it combines branches
+Why do we represent it in the diagram the way we do?
+self explanitory
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
