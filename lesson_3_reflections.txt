@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than leaving all your work local?
 When you add code from a different computer or another person contributes to your project from their computer.
+Why might you want to always pull changes manually rather than Git automatically stay up-to-date with your remote repository?
+There might be changes made to the remote repository that might not be 
+wanted in the master file.  I would rather have that control.
